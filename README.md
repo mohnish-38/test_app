@@ -1,5 +1,7 @@
 # README
-1. complete ruby on rail developer
+1. first test app repo
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -22,3 +24,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Complete ruby on rails Developer
